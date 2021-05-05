@@ -1,6 +1,5 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/siddharthkp/show-keys/main/demo.gif"/>
-  <br><br>
   <b>Utility to show key presses in your application</b>
 </p>
 
