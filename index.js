@@ -18,6 +18,13 @@ let keys = [];
 let appearedAt = null;
 
 const handler = (event) => {
+  if (
+    window.SHOW_KEYS_SKIP_INPUTS &&
+    ['INPUT', 'TEXTAREA'].includes(event.target.tagName)
+  ) {
+    return;
+  }
+
   const key =
     prettyMap[event.key] || prettyMap[event.which] || event.key.toUpperCase();
 
