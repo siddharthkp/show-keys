@@ -1,6 +1,8 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/siddharthkp/show-keys/main/demo.gif"/>
   <b>Utility to show key presses in your application</b>
+  <br><br/>
+  <a href="https://codesandbox.io/s/use-keys-duk76">Demo on CodeSandbox<a/>
 </p>
 
 &nbsp;
