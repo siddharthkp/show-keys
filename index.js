@@ -12,6 +12,7 @@ const prettyMap = {
   Enter: '⏎',
   32: 'space',
   CapsLock: 'caps lock',
+  Tab: 'tab',
 };
 
 let keys = [];
