@@ -1,10 +1,8 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/siddharthkp/show-keys/main/demo.gif"/>
-  <b>Utility to show key presses in your application</b>
+  <b>Utility to show key presses in your application</b>, Inspired by <a href="https://www.ixeau.com/keystroke-pro/">Keystroke Pro<a/> for Mac.
   <br><br>
   <a href="https://codesandbox.io/s/use-keys-duk76">Demo on CodeSandbox<a/>
-  <br><br>
-  Inspired by <a href="https://www.ixeau.com/keystroke-pro/">Keystroke Pro<a/> for Mac.
 </p>
 
 &nbsp;
