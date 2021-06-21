@@ -67,7 +67,7 @@ const css = `
     display: flex;
     background: #2e2e2e;
     border-radius: 10px;
-    position: absolute;
+    position: fixed;
     top: 20px;
     right: 20px;
     padding: 10px 10px 12px;
