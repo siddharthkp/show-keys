@@ -29,7 +29,7 @@ import 'show-keys'
 or in your html:
 
 ```html
-<script src="unpkg.com/show-keys"></script>
+<script src="https://unpkg.com/show-keys"></script>
 ```
 
 &nbsp;
